@@ -1,5 +1,7 @@
 # nuxt-bulma-boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SafeStudio/nuxt-bulma-boilerplate.svg)](https://greenkeeper.io/)
+
 > Nuxt.js project + Bulma CSS Framework
 
 ## Build Setup
